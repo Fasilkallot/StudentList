@@ -1,0 +1,15 @@
+C:\Users\fasil\Documents\VSF\basicProgram\basicProgram\bin\Debug\net6.0\basicProgram.exe
+C:\Users\fasil\Documents\VSF\basicProgram\basicProgram\bin\Debug\net6.0\basicProgram.deps.json
+C:\Users\fasil\Documents\VSF\basicProgram\basicProgram\bin\Debug\net6.0\basicProgram.runtimeconfig.json
+C:\Users\fasil\Documents\VSF\basicProgram\basicProgram\bin\Debug\net6.0\basicProgram.dll
+C:\Users\fasil\Documents\VSF\basicProgram\basicProgram\bin\Debug\net6.0\basicProgram.pdb
+C:\Users\fasil\Documents\VSF\basicProgram\basicProgram\obj\Debug\net6.0\basicProgram.csproj.AssemblyReference.cache
+C:\Users\fasil\Documents\VSF\basicProgram\basicProgram\obj\Debug\net6.0\basicProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasil\Documents\VSF\basicProgram\basicProgram\obj\Debug\net6.0\basicProgram.AssemblyInfoInputs.cache
+C:\Users\fasil\Documents\VSF\basicProgram\basicProgram\obj\Debug\net6.0\basicProgram.AssemblyInfo.cs
+C:\Users\fasil\Documents\VSF\basicProgram\basicProgram\obj\Debug\net6.0\basicProgram.csproj.CoreCompileInputs.cache
+C:\Users\fasil\Documents\VSF\basicProgram\basicProgram\obj\Debug\net6.0\basicProgram.dll
+C:\Users\fasil\Documents\VSF\basicProgram\basicProgram\obj\Debug\net6.0\refint\basicProgram.dll
+C:\Users\fasil\Documents\VSF\basicProgram\basicProgram\obj\Debug\net6.0\basicProgram.pdb
+C:\Users\fasil\Documents\VSF\basicProgram\basicProgram\obj\Debug\net6.0\basicProgram.genruntimeconfig.cache
+C:\Users\fasil\Documents\VSF\basicProgram\basicProgram\obj\Debug\net6.0\ref\basicProgram.dll
